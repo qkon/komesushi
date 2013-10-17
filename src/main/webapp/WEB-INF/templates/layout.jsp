@@ -82,8 +82,7 @@
 		</div>
 		<div id="result-content" align="center"
 			style="background-color: #fff17b;">
-			<img
-				src="${pageContext.request.contextPath}/resources/img/menu.png"
+			<img src="${pageContext.request.contextPath}/resources/img/menu.png"
 				style="margin-top: 20px; margin-bottom: 20px;"></img>
 		</div>
 	</div>
@@ -101,16 +100,42 @@
 				<div class="content">
 					<div class="c0" style="color: white;">
 						<p>
-							<br/>Komesushi<br /> ul. 1 Maja 46<br /> 05-200 Wołomin<br /> <br />
-							tel. 530 830 631<br /> <br /> e-mail: <a
+							<br />Komesushi<br /> ul. 1 Maja 46<br /> 05-200 Wołomin<br />
+							<br /> tel. 530 830 631<br /> <br /> e-mail: <a
 								href="mailto:kontakt@komesushi.pl">kontakt@komesushi.pl</a><br />
-							Otwarte codziennie od 12:00 do 22:00 <br /><br/>
+							Otwarte codziennie od 12:00 do 22:00 <br /> <br />
 						</p>
 					</div>
 
 				</div>
 			</div>
 
+		</div>
+	</div>
+
+	<div id="result-modal-lunch" class="modal hide fade modalWindow"
+		tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+		aria-hidden="true">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal"
+				aria-hidden="true" style="color: white; opacity: 0.9;">×</button>
+		</div>
+		<div id="result-content" align="center">
+			<div class="content">
+				<div class="c0" style="color: white;">
+					<p>
+						<br /> Zamówienia od poniedziałku do piątku: 12:00-16:00
+					</p>
+					<p>Zestaw lunch 1 - 26zł 6 x futomaki, 6 x hosomaki</p>
+					<p>Zestaw lunch 2 - 34zł 8 x uramaki, 6 x hosomaki, 2 x nigiri</p>
+					<p>W każdym zestawie do wyboru: zupa miso, sałatka wakame lub
+						sałatka kim chi.</p>
+					Aktualna oferta dostępna na <a
+						href="http://www.facebook.com/komesushiwolomin"><img
+						src="${pageContext.request.contextPath}/resources/img/facebook-icon.png" /></a>.
+					<p>
+				</div>
+			</div>
 		</div>
 	</div>
 
@@ -125,9 +150,7 @@
 		<div id="result-content" align="center">
 			<div id="kontakt_page_right">
 				<div class="content">
-					<div class="c0" style="color: white;">
-
-					</div>
+					<div class="c0" style="color: white;"></div>
 
 				</div>
 			</div>

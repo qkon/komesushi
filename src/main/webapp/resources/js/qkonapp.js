@@ -14,6 +14,13 @@ function showDelivery() {
 		$('#result-modal-delivery').modal();	
 };
 
+function showLunch() {	
+	$.ajaxSetup({
+		cache : true
+	});			
+		$('#result-modal-lunch').modal();	
+};
+
 function showContact() {	
 	$.ajaxSetup({
 		cache : true
