@@ -1,9 +1,9 @@
-App Engine Java Application
-Copyright (C) 2010-2012 Google Inc.
 
-## Skeleton application for use with App Engine Java.
+Copyright (C) 2013 QKON.
 
-Requires [Apache Maven](http://maven.apache.org) 3.0 or greater, and JDK 6+ in order to run.
+## komesushi.pl home page.
+
+Requires [Apache Maven](http://maven.apache.org) 3.1 or greater, and JDK 6+ in order to run.
 
 To build, run
 
@@ -22,3 +22,9 @@ For further information, consult the [Java App Engine](https://developers.google
 To see all the available goals for the App Engine plugin, run
 
     mvn help:describe -Dplugin=appengine
+
+Other useful maven commands
+
+	clean appengine:devserver	
+	appengine:update
+	jetty:run
