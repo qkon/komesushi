@@ -124,13 +124,20 @@
 			<div class="content">
 				<div class="c0" style="color: white;">
 					<p>
-						<br /> Zamówienia od poniedziałku do piątku: 12:00-16:00
+						<br /> <b>Oferta Lunch</b>
 					</p>
-					<p>Zestaw lunch 1 - 26zł 6 x futomaki, 6 x hosomaki</p>
-					<p>Zestaw lunch 2 - 34zł 8 x uramaki, 6 x hosomaki, 2 x nigiri</p>
+					<p>Oferta ważna jest od poniedziałku do piątku w
+						godzinach od 12:00 do 16:00.</p>
+					<p>
+						Zestaw lunch 1 - 26zł<br />6 x futomaki, 6 x hosomaki
+					</p>
+					<p>
+						Zestaw lunch 2 - 34zł<br />8 x uramaki, 6 x hosomaki, 2 x nigiri
+					</p>
+					<br />
 					<p>W każdym zestawie do wyboru: zupa miso, sałatka wakame lub
 						sałatka kim chi.</p>
-					Aktualna oferta dostępna na <a
+					<br /> Aktualna oferta dostępna na <a
 						href="http://www.facebook.com/komesushiwolomin"><img
 						src="${pageContext.request.contextPath}/resources/img/facebook-icon.png" /></a>.
 					<p>

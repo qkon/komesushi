@@ -14,7 +14,7 @@
 							japońskiej.</p>
 							<br/> <br/> <br/>
 						<p>
-							<a onclick="showMenu();" class="btn">Nasze menu</a>&nbsp;<a onclick="showLunch();" class="btn">Oferta lunch</a>
+							<a onclick="showMenu();" class="btn">Nasze Menu</a>&nbsp;<a onclick="showLunch();" class="btn">Oferta Lunch</a>
 						</p>
 					</div>
 				</div>
