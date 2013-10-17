@@ -20,10 +20,10 @@
 <script
 	src="${pageContext.request.contextPath}/resources/js/bootstrap.min.js"
 	type="text/javascript"></script>
-<script src="${pageContext.request.contextPath}/resources/js/qkonapp.js"
+<script src="${pageContext.request.contextPath}/resources/js/komesushi.js"
 	type="text/javascript"></script>
 <link rel="stylesheet"
-	href="${pageContext.request.contextPath}/resources/css/qkonapp.css" />
+	href="${pageContext.request.contextPath}/resources/css/komesushi.css" />
 </head>
 <body>
 	<div id="fb-root"></div>
