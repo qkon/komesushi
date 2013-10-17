@@ -18,17 +18,6 @@
     <load-on-startup>2</load-on-startup>
 </servlet>
 
-
-	
-	<security-constraint>
-        <web-resource-collection>
-            <web-resource-name>adminModule</web-resource-name>
-            <url-pattern>/admin/*</url-pattern>
-        </web-resource-collection>
-        <auth-constraint>
-            <role-name>admin</role-name>
-        </auth-constraint>
-    </security-constraint>
  
 	 <welcome-file-list>
 	 <welcome-file>WEB-INF/pages/index.jsp</welcome-file>

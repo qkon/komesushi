@@ -16,11 +16,4 @@
         <put-attribute name="title" value="Komesushi" />
         <put-attribute name="body" value="/WEB-INF/pages/home.jsp" />
     </definition>
-    
-        <definition name="admin" extends="base.definition">
-        <put-attribute name="title" value="Admin home" />
-        <put-attribute name="body" value="/WEB-INF/pages/admin.jsp" />
-    </definition>
-   
- 
 </tiles-definitions>
