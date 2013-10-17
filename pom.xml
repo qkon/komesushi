@@ -8,8 +8,8 @@
 	<packaging>war</packaging>
 	<version>1.0</version>
 
-	<groupId>pl.qkon.mavenapp</groupId>
-	<artifactId>qkonpl</artifactId>
+	<groupId>pl.komesushi</groupId>
+	<artifactId>komesushi</artifactId>
 
 	<properties>
 		<datanucleus.version>3.1.2</datanucleus.version>
