@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<web-app version="2.5" xmlns="http://java.sun.com/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd">
+
+
+<servlet>
+    <servlet-name>tiles</servlet-name>
+    <servlet-class>org.apache.tiles.web.startup.TilesServlet</servlet-class>
+    <init-param>
+        <param-name>
+          org.apache.tiles.impl.BasicTilesContainer.DEFINITIONS_CONFIG
+        </param-name>
+        <param-value>
+          /WEB-INF/tiles.xml,/org/apache/tiles/classpath-defs.xml
+        </param-value>
+    </init-param>
+    <load-on-startup>2</load-on-startup>
+</servlet>
+
+
+	
+	<security-constraint>
+        <web-resource-collection>
+            <web-resource-name>adminModule</web-resource-name>
+            <url-pattern>/admin/*</url-pattern>
+        </web-resource-collection>
+        <auth-constraint>
+            <role-name>admin</role-name>
+        </auth-constraint>
+    </security-constraint>
+ 
+	 <welcome-file-list>
+	 <welcome-file>WEB-INF/pages/index.jsp</welcome-file>
+	 </welcome-file-list>
+</web-app>
