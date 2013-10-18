@@ -100,8 +100,8 @@
 					<div class="c0" style="color: white;">
 						<table>
 							<tr>
-								<td><img class="roundedCorners shadow"
-									src="${pageContext.request.contextPath}/resources/img/logo.png" style="margin-right: 150px;" /></td>
+								<td><a target="_blank" href="https://www.google.pl/maps/preview#!q=Komesushi%2C+1+Maja%2C+Wo%C5%82omin&data=!4m15!2m14!1m13!1s0x471eda90a3597ed5%3A0xe83ff31511be4c6e!3m8!1m3!1d4091634!2d19.204102!3d52.025459!3m2!1i1348!2i625!4f13.1!4m2!3d52.339139!4d21.2454"><img class="roundedCorners shadow"
+									src="${pageContext.request.contextPath}/resources/img/logo.png" title="Kliknij, aby zobaczyć mapę."  style="margin-right: 150px;" /></a></td>
 								<td><p>
 
 										<br />Komesushi<br /> ul. 1 Maja 46<br /> 05-200 Wołomin<br />
@@ -147,7 +147,7 @@
 					<br />
 					<p>Oferta ważna w lokalu i przy odbiorze osobistym.</p>
 					<br /> Aktualna oferta dostępna na <a
-						href="http://www.facebook.com/komesushiwolomin"><img 
+						href="http://www.facebook.com/komesushiwolomin" target="_blank"><img 
 						src="${pageContext.request.contextPath}/resources/img/facebook-icon.png" /></a>.
 					<p>
 				</div>
