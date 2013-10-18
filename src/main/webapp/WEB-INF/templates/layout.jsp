@@ -144,6 +144,8 @@
 					<br />
 					<p>W każdym zestawie do wyboru: zupa miso, sałatka wakame lub
 						sałatka kim chi.</p>
+					<br />
+					<p>Oferta ważna w lokalu i przy odbiorze osobistym.</p>
 					<br /> Aktualna oferta dostępna na <a
 						href="http://www.facebook.com/komesushiwolomin"><img 
 						src="${pageContext.request.contextPath}/resources/img/facebook-icon.png" /></a>.
