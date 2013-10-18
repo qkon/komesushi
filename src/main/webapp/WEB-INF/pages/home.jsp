@@ -5,7 +5,7 @@
 		<ul class="thumbnails">
 			<li class="span4">
 				<div class="thumbnail">
-					<img
+					<img class="roundedCorners shadow"
 						src="${pageContext.request.contextPath}/resources/img/baner.jpg" />
 					<div class="caption" style="color: white; height: 200px;">
 						<p style="font-size: 2em;">Czego spróbujesz?</p>
@@ -21,7 +21,7 @@
 			</li>
 			<li class="span4">
 				<div class="thumbnail">
-					<img
+					<img class="roundedCorners shadow"
 						src="${pageContext.request.contextPath}/resources/img/kontakt.jpg" />
 					<div class="caption" style="color: white; height: 200px;">
 						<p style="font-size: 2em;">Jak zamówić dostawę?</p>
@@ -39,7 +39,7 @@
 
 			<li class="span4">
 				<div class="thumbnail">
-					<img
+					<img class="roundedCorners shadow"
 						src="${pageContext.request.contextPath}/resources/img/lokal.jpg" />
 					<div class="caption" style="color: white; height: 200px;">
 						<p style="font-size: 2em;">Jak do Nas trafić?</p>
@@ -56,10 +56,10 @@
 
 		</ul>
 	</div>
-	<div class="fb-like-box"
+	<div class="fb-like-box "
 		data-href="https://www.facebook.com/komesushiwolomin"
 		data-width="1170" data-colorscheme="dark" data-show-faces="true"
-		data-header="true" data-stream="false" data-show-border="true"></div>
+		data-header="true" data-stream="false" data-show-border="false"></div>
 
 
 </body>

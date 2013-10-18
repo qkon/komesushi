@@ -1,6 +1,25 @@
-@font-face {
-	font-family: asiaFont;
-	src: url('/resources/font/shanghai.ttf');
+.fullCenter {
+	width: 100%;
+	text-align: center;
+}
+
+.thumbnail 
+{
+	border: none;
+}
+
+.shadow {
+-moz-box-shadow: 10px 10px 5px #888;
+-webkit-box-shadow: 10px 10px 5px #888;
+box-shadow: 10px 10px 5px #888;
+margin-bottom: 20px;
+}
+
+.roundedCorners {
+	border: 1px solid#;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
 }
 
 .footerBottom {
@@ -9,26 +28,24 @@
 	bottom: 0px
 }
 
-body {
-	font: 12px/22px "Segoe UI", Arial, Helvetica, sans-serif;
+.backgroundGradient
+{
 	color: #fcf6a2; ! important;
 	background: black;
-	background: -moz-radial-gradient(circle, #646464, black);
-	background: -webkit-radial-gradient(circle, #646464, black);
-	background: -ms-radial-gradient(circle, #646464, black);
-	background: -o-radial-gradient(circle, #646464, black);
-	background: radial-gradient(circle, #646464, black);
-	  
+	background: -moz-radial-gradient(circle, #2e2e2e, black);
+	background: -webkit-radial-gradient(circle, #2e2e2e, black);
+	background: -ms-radial-gradient(circle, #2e2e2e, black);
+	background: -o-radial-gradient(circle, #2e2e2e, black);
+	background: radial-gradient(circle, #2e2e2e, black);
+}
+
+body {
+	font: 12px/22px "Segoe UI", Arial, Helvetica, sans-serif;
+	
 }
 
 .modalWindow {
-	display:none;
-	background: black;
-	background: -moz-radial-gradient(circle, #646464, black);
-	background: -webkit-radial-gradient(circle, #646464, black);
-	background: -ms-radial-gradient(circle, #646464, black);
-	background: -o-radial-gradient(circle, #646464, black);
-	background: radial-gradient(circle, #646464, black);
+	display: none;	
 }
 
 .navbar-inner {

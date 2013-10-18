@@ -14,18 +14,17 @@
 <link rel="stylesheet"
 	href="${pageContext.request.contextPath}/resources/css/bootstrap.min.css" />
 
-<script
-	src="${pageContext.request.contextPath}/resources/js/jquery-1.9.1.js"
-	type="text/javascript"></script>
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 <script
 	src="${pageContext.request.contextPath}/resources/js/bootstrap.min.js"
 	type="text/javascript"></script>
-<script src="${pageContext.request.contextPath}/resources/js/komesushi.js"
+<script
+	src="${pageContext.request.contextPath}/resources/js/komesushi.js"
 	type="text/javascript"></script>
 <link rel="stylesheet"
 	href="${pageContext.request.contextPath}/resources/css/komesushi.css" />
 </head>
-<body>
+<body class="backgroundGradient">
 	<div id="fb-root"></div>
 	<script>
 		(function(d, s, id) {
@@ -87,7 +86,7 @@
 		</div>
 	</div>
 
-	<div id="result-modal-contact" class="modal hide fade modalWindow"
+	<div id="result-modal-contact" class="modal hide fade modalWindow backgroundGradient"
 		tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
 		aria-hidden="true">
 		<div class="modal-header">
@@ -99,12 +98,20 @@
 			<div id="kontakt_page_right">
 				<div class="content">
 					<div class="c0" style="color: white;">
-						<p>
-							<br />Komesushi<br /> ul. 1 Maja 46<br /> 05-200 Wołomin<br />
-							<br /> tel. 530 830 631<br /> <br /> e-mail: <a
-								href="mailto:kontakt@komesushi.pl">kontakt@komesushi.pl</a><br />
-							Otwarte codziennie od 12:00 do 22:00 <br /> <br />
-						</p>
+						<table>
+							<tr>
+								<td><img class="roundedCorners shadow"
+									src="${pageContext.request.contextPath}/resources/img/logo.png" style="margin-right: 150px;" /></td>
+								<td><p>
+
+										<br />Komesushi<br /> ul. 1 Maja 46<br /> 05-200 Wołomin<br />
+										<br /> tel. 530 830 631<br /> <br /> e-mail: <a
+											href="mailto:kontakt@komesushi.pl">kontakt@komesushi.pl</a><br />
+										Otwarte codziennie od 12:00 do 22:00 <br /> <br />
+									</p></td>
+							</tr>
+						</table>
+
 					</div>
 
 				</div>
@@ -113,7 +120,7 @@
 		</div>
 	</div>
 
-	<div id="result-modal-lunch" class="modal hide fade modalWindow"
+	<div id="result-modal-lunch" class="modal hide fade modalWindow backgroundGradient"
 		tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
 		aria-hidden="true">
 		<div class="modal-header">
@@ -126,8 +133,8 @@
 					<p>
 						<br /> <b>Oferta Lunch</b>
 					</p>
-					<p>Oferta ważna jest od poniedziałku do piątku w
-						godzinach od 12:00 do 16:00.</p>
+					<p>Oferta ważna jest od poniedziałku do piątku w godzinach od
+						12:00 do 16:00.</p>
 					<p>
 						Zestaw lunch 1 - 26zł<br />6 x futomaki, 6 x hosomaki
 					</p>
@@ -138,34 +145,12 @@
 					<p>W każdym zestawie do wyboru: zupa miso, sałatka wakame lub
 						sałatka kim chi.</p>
 					<br /> Aktualna oferta dostępna na <a
-						href="http://www.facebook.com/komesushiwolomin"><img
+						href="http://www.facebook.com/komesushiwolomin"><img 
 						src="${pageContext.request.contextPath}/resources/img/facebook-icon.png" /></a>.
 					<p>
 				</div>
 			</div>
 		</div>
 	</div>
-
-	<div id="result-modal-delivery" class="modal hide fade modalWindow"
-		tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
-		aria-hidden="true">
-		<div class="modal-header">
-			<button type="button" class="close" data-dismiss="modal"
-				aria-hidden="true">×</button>
-
-		</div>
-		<div id="result-content" align="center">
-			<div id="kontakt_page_right">
-				<div class="content">
-					<div class="c0" style="color: white;"></div>
-
-				</div>
-			</div>
-
-		</div>
-	</div>
-
-
-
 </body>
 </html>
