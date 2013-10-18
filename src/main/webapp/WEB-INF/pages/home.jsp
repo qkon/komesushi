@@ -14,7 +14,7 @@
 							japońskiej.</p>
 							<br/> <br/> <br/>
 						<p>
-							<a onclick="showMenu();" class="btn">Nasze Menu</a>&nbsp;<a onclick="showLunch();" class="btn">Oferta Lunch</a>
+							<a onclick="showMenu();" class="btn btn-inverse">Nasze Menu</a>&nbsp;<a onclick="showLunch();" class="btn btn-inverse">Oferta Lunch</a>
 						</p>
 					</div>
 				</div>
@@ -48,7 +48,7 @@
 							poniższy przycisk, aby uzyskać więcej informacji.</p>
 							<br/> <br/>
 						<p>
-							<a onclick="showContact();" class="btn">Kontakt & Lokalizacja</a>
+							<a onclick="showContact();" class="btn btn-inverse">Kontakt & Lokalizacja</a>
 						</p>
 					</div>
 				</div>
