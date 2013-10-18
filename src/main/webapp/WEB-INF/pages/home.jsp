@@ -56,11 +56,6 @@
 
 		</ul>
 	</div>
-	<div class="fb-like-box "
-		data-href="https://www.facebook.com/komesushiwolomin"
-		data-width="1170" data-colorscheme="dark" data-show-faces="true"
-		data-header="true" data-stream="false" data-show-border="false"></div>
-
-
+	
 </body>
 </html>

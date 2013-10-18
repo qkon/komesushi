@@ -16,4 +16,9 @@
         <put-attribute name="title" value="Komesushi" />
         <put-attribute name="body" value="/WEB-INF/pages/home.jsp" />
     </definition>
+    
+    <definition name="menu" extends="base.definition">
+        <put-attribute name="title" value="Komesushi Menu" />
+        <put-attribute name="body" value="/WEB-INF/pages/menu.jsp" />
+    </definition>
 </tiles-definitions>
