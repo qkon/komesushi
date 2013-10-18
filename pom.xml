@@ -183,7 +183,7 @@
 				<artifactId>appengine-maven-plugin</artifactId>
 				<configuration>
 					<appId>komesushiwolomin</appId>
-					<oauth2>false</oauth2>
+					<oauth2>true</oauth2>
 				</configuration>
 				<version>${appengine.target.version}</version>
 			</plugin>
