@@ -83,7 +83,7 @@
 				style="vertical-align: middle; text-align: center; width: 100%;">
 				<tr>
 					<td><img class="shadow" style="margin: 20px;"
-						src="https://lh5.googleusercontent.com/-72Lai7eCSh4/Uq7MdXFBnfI/AAAAAAAAAC8/VqNGyfSihjg/s288/mikolaje.jpg" />
+						src="https://lh5.googleusercontent.com/-IAQo1MHI7wA/Uq75dYf1K9I/AAAAAAAAADY/vXBfE9VuCpA/s288/sylwek%25202.jpg" />
 					</td>
 					<td>
 						<p>

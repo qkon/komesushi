@@ -22,6 +22,10 @@ margin-bottom: 20px;
 	font-size: smaller;
 }
 
+.buttonMargin{
+	margin: 20px;	
+}
+
 .centerText {
 	margin-left: 50px;
 	margin-top: 10px;

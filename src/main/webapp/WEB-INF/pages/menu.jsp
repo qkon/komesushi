@@ -2,137 +2,135 @@
 <html>
 <body>
 	<table style="vertical-align: text-top; width: 100%; color: white;">
+		
 		<tr>
-			<td colspan="3" style="text-align: center;"><h1>Nasze Menu</h1></td>
-		</tr>
-		<tr>
-			<td colspan="3" style="text-align: center;"><a href="/">--Powrót
-					do strony głównej--</a></td>
+			<td colspan="3" style="text-align: center;"><a href="/"
+				class="btn btn-inverse buttonMargin">Powrót do strony głównej</a><a onclick="showContact();" class="btn btn-inverse buttonMargin">Kontakt & Lokalizacja</a></td>
 		</tr>
 		<tr style="vertical-align: text-top;">
 			<td class="menuTD">
 				<h4>Hosomaki 6 szt.</h4> <img class="shadow centerText"
-				src="https://lh5.googleusercontent.com/-mIn4EoUadaY/UqrWDHs-HDI/AAAAAAAAACk/BQh8SBqpwA0/s144/zest%25201.JPG" /><br />Omlet
-				– tamago 10 zl<br /> Ogórek – kappa 10 zl<br /> Avokado 10 zl<br />
-				Tykwa – kanpio 10 zl<br /> Rzepa – oshinko 10 zl<br /> Krab –
-				surimi 12 zl<br /> Maslana – ohio 13 zl<br /> Losos – shake 14 zl<br />
-				Maslana, papryka, sezam 14 zl<br /> Losos, ogórek, sezam 15 zl<br />
-				Krewetka, tykwa, serek 15 zl<br /> Tunczyk, por, ostry majonez 16
-				zl<br /> Pieczony losos, tykwa, sos teryiaki 16 zl<br />
+				src="https://lh5.googleusercontent.com/-fd6b_XXQ8d8/Uq8Typw3QxI/AAAAAAAAAEE/iF8dz30LWyY/s144/hosomaki.JPG" /><br />Omlet
+				– tamago 10 zł<br /> Ogórek – kappa 10 zł<br /> Avokado 10 zł<br />
+				Tykwa – kanpio 10 zł<br /> Rzepa – oshinko 10 zł<br /> Krab –
+				surimi 12 zł<br /> Maślana – ohio 13 zł<br /> Łosoś – shake 14 zł<br />
+				Maślana, papryka, sezam 14 zł<br /> Łosoś, ogórek, sezam 15 zł<br />
+				Krewetka, tykwa, serek 15 zł<br /> Tuńczyk, por, ostry majonez 16
+				zł<br /> Pieczony łosoś, tykwa, sos teryiaki 16 zł<br />
 				<h4>Nigiri 2 szt.</h4> <img class="shadow centerText"
-				src="https://lh4.googleusercontent.com/-8JkiNzC17kk/UqrIQavoLfI/AAAAAAAAABk/pADf6vAs-qw/s144/zest%25205%2520%25282%2529.JPG" /><br />Omlet
-				– tamago 10 zl<br /> Maslana – ohio 13 zl<br /> Losos – shake 14
-				zl<br /> Kalmar – ika 14 zl<br /> Osmiornica – tako 14 zl<br />
-				Krewetka – ebi 15 zl<br /> Tunczyk – maguro 16 zl<br /> Wegorz –
-				unagi 17 zl<br />
-				<h6>Nigiri pieczone i opiekane</h6> Maslana opiekana – tykwa, sos
-				teriyaki, sezam 15 zl<br /> Maslana opiekana – sos
-				malinowozurawinowy, sezam 15 zl<br /> Losos opiekany – sos
-				teriyaki, sezam 16 zl<br /> Tunczyk opiekany – togarashi, majonez,
-				ostry sos, szczypior 17 zl<br /> Losos, wegorz, avokado 18 zl
+				src="https://lh3.googleusercontent.com/-d6y1hYZVrl4/UqrILMuInGI/AAAAAAAAABM/QfUv18gsT50/s144/nigiri%2520%25282%2529.JPG" /><br />Omlet
+				– tamago 10 zł<br /> Maślana – ohio 13 zł<br /> Łosoś – shake 14
+				zł<br /> Kalmar – ika 14 zł<br /> Ośmiornica – tako 14 zł<br />
+				Krewetka – ebi 15 zł<br /> Tuńczyk – maguro 16 zł<br /> Węgorz –
+				unagi 17 zł<br />
+				<h6>Nigiri pieczone i opiekane</h6> Maślana opiekana – tykwa, sos
+				teriyaki, sezam 15 zł<br /> Maślana opiekana – sos
+				malinowozurawinowy, sezam 15 zł<br /> Łosoś opiekany – sos
+				teriyaki, sezam 16 zł<br /> Tuńczyk opiekany – togarashi, majonez,
+				ostry sos, szczypior 17 zł<br /> Łosoś, węgorz, avokado 18 zł
 				<h4>Futomaki 6szt.</h4> <img class="shadow centerText"
-				src="https://lh5.googleusercontent.com/-YnT7862EVHw/UqrIQCZq5JI/AAAAAAAAABg/tV9DUaratVI/s144/zest%25203%2520%25283%2529.JPG" /></br>
-				Wegetarianskie – salata, tykwa, rzepa, ogórek 16 zl<br /> Krab –
-				salata, rzepa, papryka, ogórek, majonez 18 zl<br /> Maslana
-				philadelphia – salata, serek, avokado, tykwa 19 zl<br /> Krewetka
-				gotowana – salata, avocado, tamago 20 zl<br /> Losos philadelphia –
-				salata, serek, avokado, tykwa 20 zl<br /> Tunczyk philadelphia –
-				salata, serek,avokado, tykwa 22 zl <br />
-				<h6>Futomaki z tatarem</h6> Tatar losos – tatar, ogórek, salata 24
-				zl<br /> Tatar losos w tempurze – tatar, ogórek, salata 26 zl<br />
-				Tatar tunczyk – tatar, ogórek, salata 26 zl<br /> Tatar tunczyk
-				tempura – tatar,ogórek, salata 28 zl
-				<h6>Futomaki pieczone</h6> Maslana pieczona – salata, papryka w
-				tempurze, majonez, szczypiorek 21 zl<br /> Krewetka w tempurze –
-				salata, pomidorek, por, ostry majonez 22 zl<br /> Losos pieczony –
-				salata, tykwa, majonez 23 zl<br /> Wegorz pieczony – rukola,
-				tamago, majonez, ogórek 24 zl
-				<h4>Sashimi</h4>Najwykwintniejsze kawalki swiezych ryb wedlug
-				kompozycji sushi mastera <br /> Male 5szt. 26 zl <br /> Srednie
-				15szt. 69 zl <br /> Duze 25szt. 99 zl <br /> Do kazdego sashimi
-				dodajemy marchew, rzepe, imbir marynowany, wasabi, sos sojowy <br />
+				src="https://lh3.googleusercontent.com/-fGOrQlCfupw/UqrIEkx6tsI/AAAAAAAAAAw/KnOYW7l5ILA/s144/futomaki%2520%25282%2529.JPG" /></br>
+				Wegetariańskie – sałata, tykwa, rzepa, ogórek 16 zł<br /> Krab –
+				sałata, rzepa, papryka, ogórek, majonez 18 zł<br /> Maślana
+				philadelphia – sałata, serek, avokado, tykwa 19 zł<br /> Krewetka
+				gotowana – sałata, avocado, tamago 20 zł<br /> Łosoś philadelphia –
+				sałata, serek, avokado, tykwa 20 zł<br /> Tuńczyk philadelphia –
+				sałata, serek,avokado, tykwa 22 zł <br />
+				<h6>Futomaki z tatarem</h6> Tatar łosoś – tatar, ogórek, sałata 24
+				zł<br /> Tatar łosoś w tempurze – tatar, ogórek, sałata 26 zł<br />
+				Tatar tuńczyk – tatar, ogórek, sałata 26 zł<br /> Tatar tuńczyk
+				tempura – tatar,ogórek, sałata 28 zł
+				<h6>Futomaki pieczone</h6> Maślana pieczona – sałata, papryka w
+				tempurze, majonez, szczypior 21 zł<br /> Krewetka w tempurze –
+				sałata, pomidorek, por, ostry majonez 22 zł<br /> Łosoś pieczony –
+				sałata, tykwa, majonez 23 zł<br /> Węgorz pieczony – rukola,
+				tamago, majonez, ogórek 24 zł
+				<h4>Sashimi</h4>Najwykwintniejsze kawałki swiezych ryb wedlug
+				kompozycji sushi mastera. Do każdego sashimi
+				dodajemy marchew, rzepe, imbir marynowany, wasabi, sos sojowy. <br /> Małe 5szt. 26 zł <br /> Średnie
+				15szt. 69 zł <br /> Duże 25szt. 99 zł <br /> 
 			</td>
 			<td class="menuTD">
 				<h4>Uramaki – California 8szt.</h4> <img class="shadow centerText"
-				src="https://lh3.googleusercontent.com/-7C3Qcs-ML4w/UqrWHwY51lI/AAAAAAAAACk/Ee9RV0UxGuI/s144/zest%25204%2520%25282%2529.JPG" /><br />
-				<h6>Sezam na zewnatrz</h6> Wegetarianskie – salata, ogórek, rzepa,
-				tykwa 17 zl <br /> Krab – salata, avokado, majonez 17 zl <br />
-				Maslana – salata, serek, papryka, tykwa 20 zl <br /> Losos –
-				salata, serek, avokado, tykwa 22 zl <br /> Pieczony losos – pasta z
-				lososia, ogórek 23 zl <br /> Tunczyk – rukola, ostry sos, por,
-				ogórek 24 zl <br /> Krewetka w tempurze – salata, ostry majonez,
-				ogórek, por 24 zl <br /> Pieczony wegorz - rukola, tamago, majonez,
-				ogórek 25 zl
-				<h6>Ryba na zewnatrz</h6>Maslana opalana – pieczony losos, serek,
-				tykwa, maslana 24 zl <br /> Rainbow – krab, tykwa, oshinko, ogórek,
-				losos, tunczyk, maslana 28 zl <br /> Dragon sake – krewetka w
-				tempurze, ostry majonez, szczypior, ogórek, losos 29 zl
-				<h4>Zestaw losos 24szt. 75 zl</h4>6szt. Hosomaki losos <br /> 8szt.
-				Uramaki losos, serek, avokado, tykwa <br /> 6szt. Futomaki losos,
-				serek, avokado, tykwa <br /> 4szt. Nigiri losos
-				<h4>Zestaw tunczyk 24szt. 84 zl</h4> 6szt. Hosomaki tunczyk, por,
-				ostry majonez <br /> 8szt. Uramaki tunczyk, serek, avokado, tykwa <br />
-				6szt. Futamaki tunczyk, serek, avokado, tykwa <br /> 4szt. Nigiri
-				tunczyk
-				<h4>Zestaw maly 16szt. (1 osoba) 45 zl</h4>6szt. Futomaki – losos,
-				serek, salata, avokado, tykwa <br /> 8szt. Uramaki - krab, salata,
-				avokado, majonez, sezam <br /> 2szt. Nigiri losos
-				<h4>Zestaw sredni 32szt. (2-3 osoby) 90 zl</h4> 6szt. Hosomaki –
-				pieczony losos, tykwa <br /> 12szt. Nigiri – 4szt. losos, 4szt.
-				tunczyk, <br />4szt. krewetka gotowana <br /> 8szt. Uramaki –
-				losos, serek, avokado, tykwa, sezam <br /> 6szt. Futomaki –
-				krewetka gotowana, salata, avokado, tamago, szczypior
-				<h4>Zestaw duzy 59szt. (3-4 osoby) 220 zl</h4> 15szt. Sashimi
-				tunczyk, losos, krewetka <br /> 12szt. Nigiri tunczyk, krewetka,
-				maslana, losos <br /> 6szt. Hosomaki ogórek, sezam <br /> 6szt.
-				Hosomaki krab <br /> 6szt. Futomaki tunczyk serek, avokado, tykwa <br />
-				6szt. Futomaki tatar losos <br /> 8szt. Uramaki rainbow
-				<h4>Zestaw pieczony 26szt. 83 zl</h4> 6szt. Futomaki losos pieczony
-				<br /> 8szt. Uramaki pasta losos <br /> 8szt. Uramaki krewetka
-				tempura <br /> 2szt. Nigiri wegorz <br /> 2szt. Nigiri tamago
-				<h4>Zestaw wegetarianski 26szt. 44 zl</h4> 6szt. Futomaki – salata,
+				src="https://lh3.googleusercontent.com/-SkMYzztQES8/UqrIEmzG3II/AAAAAAAAAA4/eJZmlYoAUvI/s144/california%2520%25282%2529.JPG" /><br />
+				<h6>Sezam na zewnątrz</h6> Wegetariańskie – sałata, ogórek, rzepa,
+				tykwa 17 zł <br /> Krab – sałata, avokado, majonez 17 zł <br />
+				Maślana – sałata, serek, papryka, tykwa 20 zł <br /> Łosoś –
+				sałata, serek, avokado, tykwa 22 zł <br /> Pieczony łosoś – pasta z
+				łososia, ogórek 23 zł <br /> Tuńczyk – rukola, ostry sos, por,
+				ogórek 24 zł <br /> Krewetka w tempurze – sałata, ostry majonez,
+				ogórek, por 24 zł <br /> Pieczony węgorz - rukola, tamago, majonez,
+				ogórek 25 zł
+				<h6>Ryba na zewnątrz</h6>Maślana opalana – pieczony łosoś, serek,
+				tykwa, maślana 24 zł <br /> Rainbow – krab, tykwa, oshinko, ogórek,
+				łosoś, tuńczyk, maślana 28 zł <br /> Dragon sake – krewetka w
+				tempurze, ostry majonez, szczypior, ogórek, łosoś 29 zł
+				<h4>Zestaw łosoś 24szt. 75 zł</h4>6szt. Hosomaki łosoś <br /> 8szt.
+				Uramaki łosoś, serek, avokado, tykwa <br /> 6szt. Futomaki łosoś,
+				serek, avokado, tykwa <br /> 4szt. Nigiri łosoś
+				<h4>Zestaw tuńczyk 24szt. 84 zł</h4> 6szt. Hosomaki tuńczyk, por,
+				ostry majonez <br /> 8szt. Uramaki tuńczyk, serek, avokado, tykwa <br />
+				6szt. Futamaki tuńczyk, serek, avokado, tykwa <br /> 4szt. Nigiri
+				tuńczyk
+				<h4>Zestaw maly 16szt. (1 osoba) 45 zł</h4>6szt. Futomaki – łosoś,
+				serek, sałata, avokado, tykwa <br /> 8szt. Uramaki - krab, sałata,
+				avokado, majonez, sezam <br /> 2szt. Nigiri łosoś
+				<h4>Zestaw sredni 32szt. (2-3 osoby) 90 zł</h4> 6szt. Hosomaki –
+				pieczony łosoś, tykwa <br /> 12szt. Nigiri – 4szt. łosoś, 4szt.
+				tuńczyk, <br />4szt. krewetka gotowana <br /> 8szt. Uramaki –
+				łosoś, serek, avokado, tykwa, sezam <br /> 6szt. Futomaki –
+				krewetka gotowana, sałata, avokado, tamago, szczypior
+				<h4>Zestaw duży 59szt. (3-4 osoby) 220 zł</h4> 15szt. Sashimi
+				tuńczyk, łosoś, krewetka <br /> 12szt. Nigiri tuńczyk, krewetka,
+				maślana, łosoś <br /> 6szt. Hosomaki ogórek, sezam <br /> 6szt.
+				Hosomaki krab <br /> 6szt. Futomaki tuńczyk serek, avokado, tykwa <br />
+				6szt. Futomaki tatar łosoś <br /> 8szt. Uramaki rainbow
+				<h4>Zestaw pieczony 26szt. 83 zł</h4> 6szt. Futomaki łosoś pieczony
+				<br /> 8szt. Uramaki pasta łosoś <br /> 8szt. Uramaki krewetka
+				tempura <br /> 2szt. Nigiri węgorz <br /> 2szt. Nigiri tamago
+				<h4>Zestaw wegetariański 26szt. 44 zł</h4> 6szt. Futomaki – sałata,
 				ogórek, tykwa, rzepa, papryka <br /> 6szt. Hosomaki – ogórek, sezam
 				<br /> 6szt. Hosomaki – tykwa <br /> 8szt. Uramaki – tykwa,
 				ogórek, rzepa
-				<h4>Zestaw Kome 28szt. 95 zl</h4> 8szt. Dragon sake krewetka w
-				tempurze, ostry majonez, szczypior – na zewnatrz losos <br /> 8szt.
-				Uramaki rainbow krab, tykwa, oshinko, ogórek, tunczyk, losos,
-				maslana <br /> 6szt. Futomaki wegorz, salata, tamago, majonez,
-				rucola <br /> 6szt. Futomaki tatar tunczyk w tempurze <br />
+				<h4>Zestaw Kome 28szt. 95 zł</h4> 8szt. Dragon sake krewetka w
+				tempurze, ostry majonez, szczypior – na zewnątrz łosoś <br /> 8szt.
+				Uramaki rainbow krab, tykwa, oshinko, ogórek, tuńczyk, łosoś,
+				maślana <br /> 6szt. Futomaki węgorz, sałata, tamago, majonez,
+				rucola <br /> 6szt. Futomaki tatar tuńczyk w tempurze <br />
 			</td>
 			<td class="menuTD">
-				<h4>Przystawki i salatki</h4>Tatar losos – cebulka, ogórek, por 30
-				zl <br />Tatar tunczyk – cebula, ogórek, por 35 zl <br /> Krewetki
-				i warzywa w chrupiacym ciescie 4szt. 27 zl <br /> Salatka wakame –
-				glony wakame, ogórek, zalewa 10 zl <br /> Salatka kim chi –
-				japonska kiszona kapusta na ostro 10 zl <br />
-				<h4>Dania wok</h4>Pad thai z kurczakiem 26 zl <br /> Pad thai z
-				krewetka 29 zl - smazony makaron ryzowy, sos tonkatsu, tofu,
+				<h4>Przystawki i sałatki</h4>Tatar łosoś – cebulka, ogórek, por 30
+				zł <br />Tatar tuńczyk – cebula, ogórek, por 35 zł <br /> Krewetki
+				i warzywa w chrupiacym ciescie 4szt. 27 zł <br /> sałatka wakame –
+				glony wakame, ogórek, zalewa 10 zł <br /> sałatka kim chi –
+				japońska kiszona kapusta na ostro 10 zł <br />
+				<h4>Dania wok</h4>Pad thai z kurczakiem 26 zł <br /> Pad thai z
+				krewetka 29 zł - smażony makaron ryżowy, sos tonkatsu, tofu,
 				szczypior, orzechy ziemne, cytryna <br /> Czarne tagiolini z
-				kurczakiem 26 zl <br /> Czarne tagiolini z krewetka 29 zl - czarny
-				makaron smazony na woku z warzywami, sosem ostrygowym, pomidorkami
+				kurczakiem 26 zł <br /> Czarne tagiolini z krewetka 29 zł - czarny
+				makaron smażony na woku z warzywami, sosem ostrygowym, pomidorkami
 				chery <br />
 				<h4>Zupy</h4> <img class="shadow centerText"
 				src="https://lh6.googleusercontent.com/-MTu4GI1xg0w/UqrIGdhuIJI/AAAAAAAAAA8/cghNpr0zJiw/s144/miso%2520gratis.jpg" /><br />Miso
-				shiru 300ml – tradycyjna japonska zupa z glonami wakame, tofu i
-				porem 10 zl <br /> Tom kha gai 300ml – zupa z mleka kokosowego z
-				kurczakiem i grzybami shitake 17 zl <br /> Tom yam goong - ostra
-				zupa z krewetkami, kolendra i shitake 17 zl
+				shiru 300ml – tradycyjna japońska zupa z glonami wakame, tofu i
+				porem 10 zł <br /> Tom kha gai 300ml – zupa z mleka kokosowego z
+				kurczakiem i grzybami shitake 17 zł <br /> Tom yam goong - ostra
+				zupa z krewetkami, kolendra i shitake 17 zł
 				<h4>Desery</h4>Banan w tempurze z lodami waniliowymi i sosem
-				czekoladowym 16 zl <br /> Suflet czekoladowy z owocami liczi i
-				pomaranczami 18 zl
-				<h4>Herbata</h4> Dzbanuszek japonskiej zielonej herbaty 10 zl <br />
-				Dzbanuszek herbaty klasycznej 6 zl <br />
-				<h4>Kawa</h4>Espresso 5 zl <br /> Kawa 6 zl <br /> Cappuccino 8 zl
-				<h4>Napoje</h4>Soki 6 zl <br /> Cola, Fanta, Sprite 5 zl <br />
-				Woda gazowana i niegazowana 3 zl <br /> Napój aloesowy - 250ml 6 zl
-				<br /> Sake - karafka 18 zl <br /> Sake - choya 100ml 11 zl <br />
-				Piwo Kirin, Asahi 11 zl <br /> Piwo Zywiec 0,5l 9 zl
+				czekoladowym 16 zł <br /> Suflet czekoladowy z owocami liczi i
+				pomaranczami 18 zł
+				<h4>Herbata</h4> Dzbanuszek japońskiej zielonej herbaty 10 zł <br />
+				Dzbanuszek herbaty klasycznej 6 zł <br />
+				<h4>Kawa</h4>Espresso 5 zł <br /> Kawa 6 zł <br /> Cappuccino 8 zł
+				<h4>Napoje</h4>Soki 6 zł <br /> Cola, Fanta, Sprite 5 zł <br />
+				Woda gazowana i niegazowana 3 zł <br /> Napój aloesowy - 250ml 6 zł
+				<br /> Sake - karafka 18 zł <br /> Sake - choya 100ml 11 zł <br />
+				Piwo Kirin, Asahi 11 zł <br /> Piwo Zywiec 0,5l 9 zł
 			</td>
 		</tr>
 		<tr>
-			<td colspan="3" style="text-align: center;"><a href="/">--Powrót
-					do strony głównej--</a></td>
+			<td colspan="3" style="text-align: center;"><a href="/"
+				class="btn btn-inverse buttonMargin">Powrót do strony głównej</a><a onclick="showContact();" class="btn btn-inverse buttonMargin">Kontakt & Lokalizacja</a> <br /> <br /></td>
 		</tr>
 	</table>
 </body>
