@@ -15,6 +15,18 @@ box-shadow: 10px 10px 5px #888;
 margin-bottom: 20px;
 }
 
+.menuTD {
+	margin-left: 20px;
+	margin-right: 20px;
+	width: 33%;
+	font-size: smaller;
+}
+
+.centerText {
+	margin-left: 50px;
+	margin-top: 10px;
+}
+
 .roundedCorners {
 	border: 1px solid#;
 	-webkit-border-radius: 20px;
