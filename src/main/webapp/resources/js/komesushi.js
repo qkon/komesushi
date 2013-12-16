@@ -14,6 +14,14 @@ function showDelivery() {
 		$('#result-modal-delivery').modal();	
 };
 
+function showHoliday() {	
+	$.ajaxSetup({
+		cache : true
+	});			
+		$('#result-modal-holiday').modal();	
+		return false;
+};
+
 function showLunch() {	
 	$.ajaxSetup({
 		cache : true

@@ -71,6 +71,41 @@
 		</footer>
 	</div>
 
+	<div id="result-modal-holiday"
+		class="modal hide fade modalWindow backgroundGradient" tabindex="-1"
+		role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+		<div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal"
+				aria-hidden="true" style="color: white; opacity: 0.9;">×</button>
+		</div>
+		<div id="result-content" align="center" style="color: white;">
+			<table
+				style="vertical-align: middle; text-align: center; width: 100%;">
+				<tr>
+					<td><img class="shadow" style="margin: 20px;"
+						src="https://lh5.googleusercontent.com/-72Lai7eCSh4/Uq7MdXFBnfI/AAAAAAAAAC8/VqNGyfSihjg/s288/mikolaje.jpg" />
+					</td>
+					<td>
+						<p>
+							<b>Przyjmujemy zapisy na zestawy sushi w Wigilię i Sylwestra.</b>
+						</p>
+						<p>W tych dniach realizujemy zamówienia na wynos z odbiorem
+							osobistym lub z dostawą.</p>
+						<p>Tel. 530-830-631</p>
+						<p>
+							Godziny otwarcia<br /> Wigilia od 12.00 do 16.00.<br />
+							Sylwester 0d 12.00 do 18.00.
+						</p>
+						<p>Do każdego zamówienia powyżej 50 zł dodajemy rolkę
+							NIESPODZIANKĘ.</p>
+						<p>Jednocześnie informujemy, że restauracja w dniach
+							25.12.2013 i 01.01.2014 jest NIECZYNNA.</p>
+					</td>
+				</tr>
+			</table>
+		</div>
+	</div>
+
 
 
 	<div id="result-modal" class="modal hide fade" tabindex="-1"
@@ -167,16 +202,19 @@
 							<td colspan="1"><p>
 									<img class="shadow"
 										src="https://lh4.googleusercontent.com/-8JkiNzC17kk/UqrIQavoLfI/AAAAAAAAABk/pADf6vAs-qw/s144/zest%25205%2520%25282%2529.JPG" /><br />ZESTAW
-									5 - 34 zł<br />NIGIRI...6szt<br />
-									<br />
+									5 - 34 zł<br />NIGIRI...6szt<br /> <br />
 								</p></td>
 						</tr>
 					</table>
 					<br />
 					<p>Ryby w ofercie lunchowej to: tuńczyk, łosoś, maślana,
 						krewetka gotowana, krab, kalmar, ośmiornica.</p>
-					<p><img class="shadow"
-										src="https://lh6.googleusercontent.com/-MTu4GI1xg0w/UqrIGdhuIJI/AAAAAAAAAA8/cghNpr0zJiw/s144/miso%2520gratis.jpg"/><span style="margin-left: 10px;">Do każdego zestawu zupa miso GRATIS!!!</span> </p>
+					<p>
+						<img class="shadow"
+							src="https://lh6.googleusercontent.com/-MTu4GI1xg0w/UqrIGdhuIJI/AAAAAAAAAA8/cghNpr0zJiw/s144/miso%2520gratis.jpg" /><span
+							style="margin-left: 10px;">Do każdego zestawu zupa miso
+							GRATIS!!!</span>
+					</p>
 
 					<p>DOSTAWA DO DOMU I BIURA – tylko 3 zł.</p>
 					<p>
