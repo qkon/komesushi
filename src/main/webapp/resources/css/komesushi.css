@@ -618,8 +618,8 @@ a:hover {
 }
 
 .modal {
-	width: 760px;
-	margin-left: -381px;
+	width: 960px;
+	margin-left: -481px;
 }
 
 .modal.fade.in {

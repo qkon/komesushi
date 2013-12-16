@@ -133,31 +133,61 @@
 				aria-hidden="true" style="color: white; opacity: 0.9;">×</button>
 		</div>
 		<div id="result-content" align="center">
-			<div class="content">
+			<div class="content" style="width: 820px;">
 				<div class="c0" style="color: white;">
 					<p>
-						<br /> <b>Oferta Lunch</b>
+						<b>Sam skomponuj swój lunch!</b>
 					</p>
-					<p>Oferta ważna jest od poniedziałku do piątku w godzinach od
-						12:00 do 16:00.</p>
-					<p>
-						Zestaw lunch 1 - 26zł<br />6 x futomaki, 6 x hosomaki
-					</p>
-					<p>
-						Zestaw lunch 2 - 34zł<br />8 x uramaki, 6 x hosomaki, 2 x nigiri
-					</p>
+					<p>OFERTA WAŻNA OD PONIEDZIAŁKU DO PIĄTKU OD GODZINY 12.00 DO
+						16.00</p>
 					<br />
-					<p>W każdym zestawie do wyboru: zupa miso, sałatka wakame lub
-						sałatka kim chi.</p>
+					<table
+						style="width: 100%; text-align: center; vertical-align: middle;">
+						<tr>
+							<td colspan="1"><p>
+									<img class="shadow"
+										src="https://lh5.googleusercontent.com/-mIn4EoUadaY/UqrWDHs-HDI/AAAAAAAAACk/BQh8SBqpwA0/s144/zest%25201.JPG" /><br />ZESTAW
+									1 - 22 zł<br />HOSOMAKI...6szt<br />HOSOMAKI...6szt<br />
+								</p></td>
+							<td colspan="1"><p>
+									<img class="shadow"
+										src="https://lh4.googleusercontent.com/-m9FkiJvBfr4/UqrWDHFpBwI/AAAAAAAAACk/O6jyCwN1RNU/s144/zest%25202.JPG" /><br />ZESTAW
+									2 - 26 zł<br />FUTOMAKI...6szt<br />HOSOMAKI...6szt<br />
+								</p></td>
+							<td colspan="1"><p>
+									<img class="shadow"
+										src="https://lh5.googleusercontent.com/-YnT7862EVHw/UqrIQCZq5JI/AAAAAAAAABg/tV9DUaratVI/s144/zest%25203%2520%25283%2529.JPG" /><br />ZESTAW
+									3 - 30 zł<br />FUTOMAKI...6szt<br />FUTOMAKI...6szt<br />
+								</p></td>
+							<td colspan="1"><p>
+									<img class="shadow"
+										src="https://lh3.googleusercontent.com/-7C3Qcs-ML4w/UqrWHwY51lI/AAAAAAAAACk/Ee9RV0UxGuI/s144/zest%25204%2520%25282%2529.JPG" /><br />ZESTAW
+									4 - 34 zł<br />CALIFORNIA...6szt<br />CALIFORNIA...6szt<br />
+								</p></td>
+							<td colspan="1"><p>
+									<img class="shadow"
+										src="https://lh4.googleusercontent.com/-8JkiNzC17kk/UqrIQavoLfI/AAAAAAAAABk/pADf6vAs-qw/s144/zest%25205%2520%25282%2529.JPG" /><br />ZESTAW
+									5 - 34 zł<br />NIGIRI...6szt<br />
+									<br />
+								</p></td>
+						</tr>
+					</table>
 					<br />
-					<p>Oferta ważna w lokalu i przy odbiorze osobistym.</p>
-					<br /> Aktualna oferta dostępna na <a
-						href="http://www.facebook.com/komesushiwolomin" target="_blank"><img
-						src="${pageContext.request.contextPath}/resources/img/facebook-icon.png" /></a>.
+					<p>Ryby w ofercie lunchowej to: tuńczyk, łosoś, maślana,
+						krewetka gotowana, krab, kalmar, ośmiornica.</p>
+					<p><img class="shadow"
+										src="https://lh6.googleusercontent.com/-MTu4GI1xg0w/UqrIGdhuIJI/AAAAAAAAAA8/cghNpr0zJiw/s144/miso%2520gratis.jpg"/><span style="margin-left: 10px;">Do każdego zestawu zupa miso GRATIS!!!</span> </p>
+
+					<p>DOSTAWA DO DOMU I BIURA – tylko 3 zł.</p>
 					<p>
+						Aktualne promocje znajdziesz na <a
+							href="http://www.facebook.com/komesushiwolomin" target="_blank"><img
+							src="/resources/img/facebook-icon.png" /></a>.
+					</p>
 				</div>
 			</div>
 		</div>
+
 	</div>
 </body>
 </html>
