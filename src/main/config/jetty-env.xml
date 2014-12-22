@@ -2,12 +2,7 @@
 <!DOCTYPE Configure PUBLIC "-//Mort Bay Consulting//DTD Configure//EN" "http://jetty.mortbay.org/configure.dtd">
 <Configure class="org.mortbay.jetty.webapp.WebAppContext">
 
-   	<New class="org.mortbay.jetty.plus.naming.EnvEntry"><Arg>reports2/ldap</Arg><Arg type="java.lang.String">ldap://rkamsemea01.emea.roche.com:3268</Arg></New>
-	<New class="org.mortbay.jetty.plus.naming.EnvEntry"><Arg>reports2/userDn</Arg><Arg type="java.lang.String">RBAMOUSER\kssyste2</Arg></New>
-	<New class="org.mortbay.jetty.plus.naming.EnvEntry"><Arg>reports2/password</Arg><Arg type="java.lang.String">Roche2002</Arg></New>
-	<New class="org.mortbay.jetty.plus.naming.EnvEntry"><Arg>reports2/jespa.bindstr</Arg><Arg type="java.lang.String">rkamsemea01.emea.roche.com:3268</Arg></New>
-	<New class="org.mortbay.jetty.plus.naming.EnvEntry"><Arg>reports2/jespa.service.acctname</Arg><Arg type="java.lang.String">RKAVGJESPA01$@emea.roche.com</Arg></New>
-	<New class="org.mortbay.jetty.plus.naming.EnvEntry"><Arg>reports2/jespa.service.password</Arg><Arg type="java.lang.String">password</Arg></New>
+   	
 	
 	   
     
